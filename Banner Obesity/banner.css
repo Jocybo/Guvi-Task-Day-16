@@ -1,0 +1,11 @@
+.dec {
+    width: 120px;
+}
+
+.bord_sty {
+    border-left-style: dashed;
+}
+
+.container {
+    background-color: #F1F1F1;
+}
