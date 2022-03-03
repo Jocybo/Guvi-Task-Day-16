@@ -1,0 +1,67 @@
+/* =====================BACKROUND COLOR========================================== */
+
+body {
+    background-color: rgb(54, 49, 49);
+}
+
+
+/*========================================BACKGROUND COLORs============================== */
+
+
+/* ORANGE */
+
+.bg-color1 {
+    background-color: rgb(245, 146, 7);
+}
+
+
+/* DARK BLUE */
+
+.bg-color2 {
+    background-color: rgb(0, 170, 217);
+}
+
+
+/* LIGHT RED */
+
+.bg-color3 {
+    background-color: rgb(245, 91, 91);
+}
+
+
+/*=======================================IMAGE RESIZEING====================================== */
+
+.risks {
+    width: 50px;
+}
+
+.french {
+    width: 100px;
+}
+
+.tv {
+    width: 200px;
+}
+
+.cycle {
+    width: 150px;
+}
+
+.coc {
+    width: 50px;
+}
+
+.small {
+    width: 100px;
+}
+
+.baby1 {
+    width: 50px;
+}
+
+
+/*============================================= HEADER COLOR CHANGE=========================== */
+
+.text-color {
+    color: rgb(243, 83, 55);
+}
